@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945541427485",
+    "firebase_url": "https://useclimb.firebaseio.com",
+    "project_id": "useclimb",
+    "storage_bucket": "useclimb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945541427485:android:dd378c2df7f6a9ed7171f4",
+        "android_client_info": {
+          "package_name": "com.appclim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945541427485-v231uhh6hstsvied566lge2m860m1li5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6a9bBLuUR-kLuXJk2_qV3oc8qGxdE6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945541427485-v231uhh6hstsvied566lge2m860m1li5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "945541427485-s5dv87q5g8i357njbk06tmosgngbhg2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AppClim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
